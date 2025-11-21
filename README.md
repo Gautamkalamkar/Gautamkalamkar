@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hey there! ✌️ 
 
-<!--
-**Gautamkalamkar/Gautamkalamkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm <ins>[Gautam]()</ins>, a machine learning enthusiast from India
 
-Here are some ideas to get you started:
+I am always excited to look at interesting and weird data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It fascinated me with wonders and secrets that can unveiled with just simple raw data.
+
+**My tech stack:**
+
+- Python
+-  Pandas
+-  Numpy
+-  Matplotlib
+
+**Fun Facts:**
+
+- I love mental peace and quiet
+- I love playing minecraft
+- My favourite web series is hannibal
+- **Hobbies:** Reading, Writing, games 
