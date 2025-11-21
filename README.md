@@ -1,6 +1,6 @@
 ## Hey there! ✌️ 
 
-I'm <ins>[Gautam]()</ins>, a machine learning enthusiast from India
+I'm [Gautam](), a machine learning enthusiast from India
 
 I am always excited to look at interesting and weird data.
 
